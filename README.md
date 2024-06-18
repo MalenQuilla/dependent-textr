@@ -1,5 +1,5 @@
 # independent-textr
-Textr service with independent file management, upload, and indexing services.
+Textr service that can run independently with its own file management, upload, and indexing services.
 
 # textr Project
 
