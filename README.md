@@ -1,5 +1,5 @@
-# dependent-textr
-Textr service with dependent files management, upload and indexing services
+# independent-textr
+Textr service with independent file management, upload, and indexing services.
 
 # textr Project
 
